@@ -1,4 +1,4 @@
-# Neural_Computation_2024 
+# Neural_Computation_Samavat_2024 
 
  The code can be applied to measurement samples collected from one feature at the time. 
 
