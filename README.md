@@ -1,20 +1,32 @@
-# Neural_Computation_2024
+# Neural_Computation_2024 
+
+ The code can be applied to measurement samples collected from one feature at the time. 
+
+# Inputs:
+
+There are two essential datasets used as inputs for the main.R code. The file name and column names should be named exactly the way instructed here. 
+
+A. The Excel file named "Pairs.xlsx" contains the IDs (names) of the two members of the paired observations along with their values.
+
+.CSV file name: "Pairs.xlsx" with four columns as follows: "G1_ID"    "G1_Value" "G2_ID"    "G2_Value"
+
+B. The Excel file named "Complete_Set.xlsx" contains the complete sample of the observations for the feature.
+
+Excel file name: Complete_Set.xlsx with two columns: "Feature_ID"    "Feature_Value"
+
+Place both Excel files in the same directory as the main file.
+
+# Outputs:
+
+1. SISC_Output.csv. Output saved as a CSV file containing the precision level, entropy, and Eta (efficiency ratio).
+
+2. A .CSV file named "Bins.csv" that contains K number of bins starting and ending values. Example bin: [a,b] where "a" is the start value and "b" is the end value for that bin.  
+Each row in the CSV file is a bin. (Total of K rows in the .CSV file for the K bins (states).)
+
+3. A .txt file named "List_Bins_Content.txt" that contains those values of the feature that fall within each of the bins (states) range. 
 
 
-Dear user,
 
-Here are the codes for algorithm used in Samavat et al, Neural Computation, 2024. 
 
-The code applied to samples collected from one feature. (Spine Head Volumes in CA1 in rat)
-
-There are two essential dataset used for the algorithms. 
-
-A. The CSV file that contains the IDs (names) of paired observations along with their values. 
-
-CSV file name: pairs.CSV with four colomns as follows: (Feature_value_ID, Feature_ID)
-
-B. The CSV file that contains the complete Sample of the observations for feature. 
-
-CSV file name: Full_Sample.CSV with two colomns: (Feature_ID, Feature_Values)
-
-Users put both CVS files in the same directory as the main file and click the Run botton in the main.R file. 
+# By Mohammad Samavat, Email: msamavat@ucsd.edu
+For question please contact Mohammad Samavat. 
