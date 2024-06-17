@@ -29,4 +29,4 @@ Each row in the CSV file is a bin. (Total of K rows in the .CSV file for the K b
 
 
 # By Mohammad Samavat, Email: msamavat@ucsd.edu
-For question please contact Mohammad Samavat. 
+For questions, please contact Mohammad Samavat. 
