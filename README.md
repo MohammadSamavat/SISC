@@ -8,11 +8,11 @@ There are two essential datasets used as inputs for the main.R code. The file na
 
 A. The Excel file named "Pairs.xlsx" contains the IDs (names) of the two members of the paired observations along with their values.
 
-.CSV file name: "Pairs.xlsx" with four columns as follows: "G1_ID"    "G1_Value" "G2_ID"    "G2_Value"
+.xlsx file name: "Pairs.xlsx" with four columns as follows: "G1_ID"    "G1_Value" "G2_ID"    "G2_Value"
 
 B. The Excel file named "Complete_Set.xlsx" contains the complete sample of the observations for the feature.
 
-Excel file name: Complete_Set.xlsx with two columns: "Feature_ID"    "Feature_Value"
+.xlsx file name: Complete_Set.xlsx with two columns: "Feature_ID"    "Feature_Value"
 
 Place both Excel files in the same directory as the main file.
 
