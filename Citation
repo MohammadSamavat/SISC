@@ -1,0 +1,13 @@
+If you used this repository in published work, please cite this repo and the following paper published in Samavat et al, 2024, Neural Computation:
+
+
+@software{Mohammadsamavat2024,
+author = {Mohammad Samavat},
+title = {SISC},
+version = {1},
+month = {June},
+year = {2024}
+url = {https://github.com/MohammadSamavat/SISC/},
+}
+
+Samavat, M., Bartol, T.M., Harris, K.M. and Sejnowski, T.J., 2024. Synaptic Information Storage Capacity Measured With Information Theory. Neural Computation, 36(5), pp.781-802.
