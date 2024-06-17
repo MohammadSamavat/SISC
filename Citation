@@ -4,7 +4,7 @@ If you used this repository in published work, please cite this repo and the fol
 @software{Mohammadsamavat2024,
 author = {Mohammad Samavat},
 title = {SISC},
-version = {1},
+version = {1.0.0},
 month = {June},
 year = {2024}
 url = {https://github.com/MohammadSamavat/SISC/},
